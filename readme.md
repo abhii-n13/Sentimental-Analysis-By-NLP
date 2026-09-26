@@ -89,6 +89,7 @@ The final Logistic Regression + TF-IDF model performs strongly on the majority c
 
 <!-- Replace this with an actual screenshot of your app -->
  <img width="1537" height="865" alt="EMO_UI" src="https://github.com/user-attachments/assets/b386359b-ce80-4175-8218-ae744610da31" />
+ <img width="1107" height="715" alt="Screenshot 2026-09-26 140220" src="https://github.com/user-attachments/assets/ad4522bf-35ff-4bbe-9d79-53398b70b1d3" />
  <img width="1573" height="850" alt="RESULT_UI" src="https://github.com/user-attachments/assets/1158e36c-5263-4178-88ef-e186260f456f" />
  <img width="1287" height="852" alt="Screenshot 2026-09-26 135729" src="https://github.com/user-attachments/assets/f26db5f7-8311-46f0-a106-5f019f6a8c0f" />
  <img width="1150" height="867" alt="Screenshot 2026-09-26 135906" src="https://github.com/user-attachments/assets/f1d38822-668c-4041-a5c8-7eec9184a682" />
